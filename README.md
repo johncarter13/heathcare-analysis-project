@@ -14,22 +14,22 @@ This mimics a real-world healthcare analyst scenario with real-world data, where
 
 1. **Average Inpatient Length of Stay**
    - Summary of patient stay legnth per admit
-   - ![Avg Stay](images/excel_a1)
+   - ![Avg Stay](images/excel_a1.png)
 2. **Average Hospital Expenses Per Day**
    - Daily cost analysis per hospital stay
-   - ![Daily Expenses](images/excel_a2)
+   - ![Daily Expenses](images/excel_a2.png)
 3. **Average Hospital Expenses Per Admit**
    - Cost analysis per admit
-![Per Admit Cost](images/excel_a3)
+![Per Admit Cost](images/excel_a3.png)
 4. **30-Day Readmission Percentage Comparisons**
    - Comparison of facilities based on readmission rates
-   - ![Readmit Rates](images/excel_a4)
+   - ![Readmit Rates](images/excel_a4.png)
 5. **Average Inpatient Length of Stay – Trend Over Time**
    - Multi-year trend visualization and breakdown
-   - ![LOS Trends](images/excel_a5)
+   - ![LOS Trends](images/excel_a5.png)
 6. **Average Hospital Expenses Per Day – Trend Over Time**
    - Year-over-year comparison of hospital costs
-   - ![Expense Trends](images/excel_a6)
+   - ![Expense Trends](images/excel_a6.png)
 ## 🚀 How to Use
 
 1. **Download** the Excel file:  
